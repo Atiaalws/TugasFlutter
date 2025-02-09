@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946940404148",
+    "project_id": "tugas2firebase-cda6f",
+    "storage_bucket": "tugas2firebase-cda6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946940404148:android:a5e9e403b407e908d092e1",
+        "android_client_info": {
+          "package_name": "com.example.tugas2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946940404148-lqoog0io1ebf15v5nc27bmj7lbkberqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMboZ2RFyiPxHYFu3WkxB0iwyqUfJL-qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946940404148-lqoog0io1ebf15v5nc27bmj7lbkberqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
